@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Bunga Tidur",
+  "base_artist": "Tulus",
+  "createdAt": "2026-03-03T16:05:42.599940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bunga Tidur",
+      "artist": "Tulus",
+      "has_synced": true,
+      "path": "select/01_Bunga_Tidur_Tulus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bunga Tidur",
+      "artist": "Nadin Amizah",
+      "has_synced": false,
+      "path": "select/02_Bunga_Tidur_Nadin_Amizah.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bunga Tidur (Album Version)",
+      "artist": "Cokelat",
+      "has_synced": false,
+      "path": "select/03_Bunga_Tidur_(Album_Version)_Cokelat.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bunga Tidur",
+      "artist": "Cokelat",
+      "has_synced": false,
+      "path": "select/04_Bunga_Tidur_Cokelat.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bunga Tidur",
+      "artist": "Nadin Amizah",
+      "has_synced": true,
+      "path": "select/05_Bunga_Tidur_Nadin_Amizah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bunga Tidur",
+      "artist": "KLa Project",
+      "has_synced": false,
+      "path": "select/06_Bunga_Tidur_KLa_Project.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bunga Tidur",
+      "artist": "Tulus",
+      "has_synced": true,
+      "path": "select/07_Bunga_Tidur_Tulus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "10 Bunga Tidur",
+      "artist": "Cokelat",
+      "has_synced": true,
+      "path": "select/08_10_Bunga_Tidur_Cokelat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bunga Tidur",
+      "artist": "Tulus",
+      "has_synced": false,
+      "path": "select/pl_01_Bunga_Tidur_Tulus.txt"
+    }
+  ]
+}
